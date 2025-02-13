@@ -42,10 +42,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alroya5/alroya5/output/snake.svg" alt="Snake animation" />
-
-###
